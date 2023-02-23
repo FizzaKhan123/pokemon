@@ -1,0 +1,43 @@
+.pokemon-outer-card-div {
+  border: 1px solid white;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.pokemon-card-image {
+  border-radius: 50%;
+  width: 60%;
+  margin-left: auto;
+  margin-bottom: auto;
+}
+
+.pokemon-name-typo {
+  color: white;
+  font-size: 18px;
+  font-weight: 400 !important;
+}
+
+.pokemon-types {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.pokemon-type1 {
+  background-color: goldenrod;
+  height: 24px;
+  width: 90px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+}
+.pokemon-type2 {
+  background-color: palegreen;
+  height: 24px;
+  width: 90px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 15px;
+  border-radius: 10px;
+}

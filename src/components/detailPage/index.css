@@ -1,0 +1,176 @@
+.logo-image {
+  width: 100%;
+  margin-bottom: 30px;
+}
+
+.single-entry-typo1 {
+  color: #d3dfdf;
+}
+
+.single-entry-typo2 {
+  color: white;
+  margin-left: 10px !important;
+}
+
+.single-entry-typo1-type {
+  color: white;
+  margin-bottom: 12px !important;
+}
+
+.type-box {
+  display: flex;
+  flex-direction: row;
+  margin-top: 20px;
+}
+
+.type-box1 {
+  background-color: #61c652;
+  height: 30px;
+  width: 100px;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.type-box2 {
+  background-color: #c937e1;
+  height: 30px;
+  width: 100px;
+  border-radius: 10px;
+  margin-left: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+/* status-bar */
+
+.status-bars {
+  display: flex;
+  flex-direction: column;
+  margin-top: 20px;
+}
+
+.single-status-bar {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.bar-property-name {
+  color: white;
+  margin-right: 20px !important;
+}
+.bar-property-value {
+  color: white;
+  margin-right: 12px !important;
+}
+
+.bar-1-realtive {
+  position: relative;
+  height: 14px;
+  background-color: white;
+  border-radius: 20px;
+  width: 250px;
+}
+.bar-1-absolute {
+  position: absolute;
+  height: 14px;
+  background-color: #61c652;
+  border-radius: 20px;
+  width: 190px;
+}
+.bar-2-absolute {
+  position: absolute;
+  height: 14px;
+  background-color: #ffc154;
+  border-radius: 20px;
+  width: 150px;
+}
+.bar-3-absolute {
+  position: absolute;
+  height: 14px;
+  background-color: #f91313;
+  border-radius: 20px;
+  width: 170px;
+}
+.bar-4-absolute {
+  position: absolute;
+  height: 14px;
+  background-color: #9090b5;
+  border-radius: 20px;
+  width: 200px;
+}
+.bar-5-absolute {
+  position: absolute;
+  height: 14px;
+  background-color: #ffc154;
+  border-radius: 20px;
+  width: 150px;
+}
+.bar-6-absolute {
+  position: absolute;
+  height: 14px;
+  background-color: #90c1e2;
+  border-radius: 20px;
+  width: 160px;
+}
+.baseStats-typos {
+  width: 33%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+/* GRID 1 CSS */
+.entries {
+  display: flex;
+  flex-direction: column;
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.parallel-entry {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.double-entry {
+  display: flex;
+  flex-direction: column;
+}
+
+.single-entry {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 20px;
+}
+
+.pokemon-detail-image {
+  width: 60%;
+  height: auto;
+}
+.gender {
+  display: block !important;
+}
+.detail-pokemon-types {
+  display: flex;
+  width: 60%;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.detail-type1 {
+  background-color: #90c1e2;
+  height: 24px;
+  width: 90px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+}
+.baseStat-grid {
+  width: 80%;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
